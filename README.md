@@ -1,6 +1,8 @@
 RevoGuild
 =========
 
+# SOON FRAJERZY
+
 **Propozycje/błędy/bugi: [Issues](https://github.com/EastWestFM/RevoGuild/issues)**
 
 **Download: [Releases](https://github.com/EastWestFM/RevoGuild/releases)**
